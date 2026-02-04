@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my portfolio website, [muhibkhan.net](https://muhibkhan.net)!
+Welcome to my portfolio website
 
 ## About
 
